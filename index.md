@@ -4,4 +4,4 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-###### <image src="https://octodex.github.com/images/yaktocat.png" alt="this is image">
+###### <image src="https://octodex.github.com/images/yaktocat.png" alt="this is the image">
